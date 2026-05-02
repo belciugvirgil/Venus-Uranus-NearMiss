@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Venus-Uranus Near-Miss Monte Carlo Simulation
-Author: Florin Belciug | ORCID: 0009-0002-3461-6703
+Author: Florin Belciug | ORCID: 0009-0009-5315-2335
 Date: 2026-05-02
 """
 
